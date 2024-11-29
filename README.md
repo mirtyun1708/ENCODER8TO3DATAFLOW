@@ -1,3 +1,4 @@
+```
 NAME: MIRTYUNJAY S
 REGISTER NO: 24013065
 ### ENCODER 8TO3 DATAFLOW Modelling
@@ -52,6 +53,7 @@ Figure 02  Encoder 8 * 3
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **RESULTS**
+```
 Thus Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables has verified
 
 
