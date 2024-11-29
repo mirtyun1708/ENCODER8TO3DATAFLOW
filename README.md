@@ -1,3 +1,5 @@
+NAME: MIRTYUNJAY S
+REGISTER NO: 24013065
 ### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
@@ -42,14 +44,16 @@ Figure 02  Encoder 8 * 3
 
 /* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
 
-Developed by: RegisterNumber:
-*/
+
+
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **RESULTS**
+Thus Encoder 8 To 3 in Dataflow Modelling using verilog and validating their functionality using their functional tables has verified
+
 
 
 
