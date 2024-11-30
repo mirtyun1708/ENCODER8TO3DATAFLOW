@@ -39,9 +39,9 @@ Figure 02  Encoder 8 * 3
 
 **Procedure**
 
-/* write all the steps invloved */
 
-**PROGRAM**
+
+**PROGRAM*
 ```
 module encoder (din, a,b,c);
 input[0:7]din;
@@ -51,17 +51,16 @@ output c;
 assign a = din[4]|din[5]|din[6]|din[7];
 assign b = din[2]|din[3]|din[6]|din[7];
 assign c = din[2]|din[4]|din[6]|din[7];
-endmodule 
+endmodule
 ```
 
-
-
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+![WhatsApp Image 2024-11-26 at 18 52 47_cfe040b9](https://github.com/user-attachments/assets/7775d094-13a5-416f-bd8c-c2e1e3ab3f57)
 
-![image](https://github.com/user-attachments/assets/bc6c22a1-026a-47f9-b4e0-b9173668c34a)
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![image](https://github.com/user-attachments/assets/beb3e238-1802-49e3-b325-65a82235fa08)
+![WhatsApp Image 2024-11-26 at 18 52 47_3a86c4ad](https://github.com/user-attachments/assets/06d5c911-f5a9-4f22-b596-9fd5b70fe612)
+
 
 **RESULTS**
 
