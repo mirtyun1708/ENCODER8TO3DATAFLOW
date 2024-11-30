@@ -1,4 +1,4 @@
-```
+![image](https://github.com/user-attachments/assets/bc2ea55a-2863-4f14-8f3b-32e58c32de08)```
 NAME: MIRTYUNJAY S
 REGISTER NO: 24013065
 ### ENCODER 8TO3 DATAFLOW Modelling
@@ -42,15 +42,26 @@ Figure 02  Encoder 8 * 3
 /* write all the steps invloved */
 
 **PROGRAM**
-
-/* Program for Encoder 8 To 3 in Dataflow Modelling and verify its truth table in quartus using Verilog programming. 
-
+```
+module encoder (din, a,b,c);
+input[0:7]din;
+output a;
+output b;
+output c;
+assign a = din[4]|din[5]|din[6]|din[7];
+assign b = din[2]|din[3]|din[6]|din[7];
+assign c = din[2]|din[4]|din[6]|din[7];
+endmodule 
+```
 
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
 
+![image](https://github.com/user-attachments/assets/bc6c22a1-026a-47f9-b4e0-b9173668c34a)
+
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+![image](https://github.com/user-attachments/assets/beb3e238-1802-49e3-b325-65a82235fa08)
 
 **RESULTS**
 
