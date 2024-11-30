@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc2ea55a-2863-4f14-8f3b-32e58c32de08)```
+```
 NAME: MIRTYUNJAY S
 REGISTER NO: 24013065
 ### ENCODER 8TO3 DATAFLOW Modelling
